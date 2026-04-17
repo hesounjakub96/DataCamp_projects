@@ -11,5 +11,3 @@ Netflix dataset provided by DataCamp containing movie titles, release years, dur
 - Identified most frequent movie duration
 - Counted short action movies (< 90 minutes)
 
-##  Conclusion
-The first simple project focused on filtering in pandas dataframe. 
