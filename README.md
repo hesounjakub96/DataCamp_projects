@@ -7,7 +7,6 @@ The focus is on applying core techniques to real datasets and developing practic
 - Exploratory Data Analysis (EDA)
 - Data Visualization (Matplotlib / Seaborn basics)
 - Statistical Analysis & Hypothesis Testing
-- Feature Engineering
 - Supervised Machine Learning (Regression & Classification)
 - Unsupervised Learning (Clustering)
 - Model Evaluation (Accuracy, MSE)
